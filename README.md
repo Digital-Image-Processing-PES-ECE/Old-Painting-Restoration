@@ -46,8 +46,10 @@ The dataset consists of digital images of old, degraded paintings. These images 
    Restored images with improved aesthetics, preserving the original artwork's integrity.
 
 ### References:
-1. MATLAB Documentation on `regionfill`, `imadjust`, and `imsharpen`.
-2. Research papers and online resources on traditional image restoration techniques and inpainting methods.
+1. H. Ram and M. Choudhary, "Image processing methods performance for digital re-establishment of older paintings," Int. J. Sci. Res. (IJSR), vol. 3, no. 4, pp. 1480-1484, 2014.. 
+2.	D. Pagrotra and N. Kaur, "A review paper on crack detection and restoration of old painting," Int. J. Sci. Res. (IJSR), vol. 3, no. 4, pp. 1420-1424, 2014. 
+3.	S. Poornapushpakala, S. Barani, M. Subramoniam, and T. Vijayashree, "Restoration of Tanjore paintings using segmentation and in-painting techniques," Int. J. Sci. Res. (IJSR), vol. 3, no. 5, pp. 1723-1727, 2014. 
+
 
 ### Limitations and Future Work:
 #### Limitations:
