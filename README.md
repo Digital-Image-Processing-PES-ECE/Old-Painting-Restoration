@@ -18,9 +18,13 @@ This project focuses on restoring degraded and damaged paintings using tradition
 The dataset consists of digital images of old, degraded paintings. These images feature various types of damage such as scratches, dust, and missing portions. The images were sourced from publicly available online archives of historical art.
 
 #### Novelty - 
-1. Automated damage detection using intensity thresholding, reducing manual effort in identifying degraded regions.
-2. Seamless inpainting that accurately fills damaged regions by analyzing neighboring undamaged pixels.
-3. Utilization of traditional DIP methods, providing a computationally efficient and simple solution compared to modern machine learning-based techniques.
+1. Multi-Stage Inpainting:  Two-step inpainting refines restoration by targeting large-scale and subtle damage iteratively.
+2. Adaptive Mask Refinement:  Dynamic mask generation post-inpainting ensures precise restoration of residual damage.
+3. Dual Contrast Adjustment:  Combines RGB adjustments and LAB color enhancement for balanced brightness and vividness.
+4. Detail Recovery with Deconvolution:  Uses Gaussian PSF to restore fine textures while avoiding artifacts.
+5. Subtle Gamma Correction:  Enhances tonal response naturally to maintain artistic authenticity.
+6. Metrics-Driven Evaluation:  Contrast and brightness metrics quantify restoration quality, aligning technical and visual accuracy.
+7. Artistic Application: Tailored to preserve artistic nuances, unlike generic image restoration methods.
 
 ### Contributors:
 1. **Jane Sharon (PES1UG22EC901)**
