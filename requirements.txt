@@ -18,7 +18,7 @@
    - Operating System: Windows, MacOS, or Linux with appropriate MATLAB versions.
 
 4. Hardware Requirements:
-   - RAM: At least 8 GB for processing larger images efficiently.
+   - RAM: At least 4 GB for processing images efficiently.
    - Disk Space: Sufficient space to store image datasets and output images.
 
 5. Other Software:
