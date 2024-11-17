@@ -1,4 +1,4 @@
-# Project Name
+# Old Painting Restoration
 
 ### Project Description:
 #### Summary - 
