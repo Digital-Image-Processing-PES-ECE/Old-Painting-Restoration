@@ -21,8 +21,9 @@ Link and/or Explanation if generated
 3. -
    
 ### Contributors:
-1. Name (SRN)
-2. Name (SRN)
+1. Jane Sharon (PES1UG22EC901)
+2. Manthan BT (PES1UG22EC907)
+3. Deepa Kulkarni (PES1UG22EC908)
 
 ### Steps:
 1. Clone Repository
