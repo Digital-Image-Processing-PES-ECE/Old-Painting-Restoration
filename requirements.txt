@@ -1,0 +1,25 @@
+1. MATLAB Core Functions:
+   Image Processing Toolbox: 
+     - Essential for basic image manipulation and processing tasks, such as reading, displaying, and converting images.
+     - Key functions: imread, imshow, rgb2gray, imadjust, stretchlim, inpaintCoherent, imsharpen, fspecial, deconvlucy, rgb2lab, lab2rgb, etc.
+
+2. MATLAB Toolboxes:
+   Image Processing Toolbox:
+       - Image transformation and filtering (e.g., imadjust, stretchlim, imsharpen)
+       - Image enhancement and restoration (e.g., inpaintCoherent, deconvlucy)
+       - Thresholding and Masking (e.g., binary masks, rgb2gray, fspecial for Gaussian filters)
+   Computer Vision Toolbox:
+     - This toolbox can be used for advanced image inpainting algorithms (e.g., inpaintCoherent) and image registration tasks.
+   Statistics and Machine Learning Toolbox:
+     - This may be used if you are analyzing or evaluating metrics like contrast change or mean brightness change using statistical functions.
+
+3. System Requirements:
+   - MATLAB Version: Preferably MATLAB R2020b or later (but earlier versions should work as well).
+   - Operating System: Windows, MacOS, or Linux with appropriate MATLAB versions.
+
+4. Hardware Requirements:
+   - RAM: At least 8 GB for processing larger images efficiently.
+   - Disk Space: Sufficient space to store image datasets and output images.
+
+5. Other Software:
+   - Image Files: JPEG, PNG, or other image formats for input and output.
